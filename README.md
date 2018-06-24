@@ -2,7 +2,7 @@
 
 This model is done to be able to do the principle of the linear regression but on circular data. It's using 3 differents methods coming from [scipy](http://scipy-cookbook.readthedocs.io/items/Least_Squares_Circle.html) implemented using sklearn naming.
 
-![rendering](https://github.com/Coni63/circle_fit/blob/master/plot.png)
+![rendering](https://github.com/Coni63/fit_circle/blob/master/plot.png)
 
 ## Getting Started
 
